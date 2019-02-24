@@ -1,4 +1,6 @@
-# Unity-ARKit-Plugin #
+# Unity-ARKit-Plugin + OpenCV #
+
+Notes.rtf contains the code to modify ARSessionNative.mm in order to combine with OpenCV. The following is official documentation on Unity-ARKit-Plugin.
 
 [**Latest Update:** This plugin now supports new ARKit functionality exposed in ARKit 2.0.  See [Whats New In ARKit 2.0](./docs/WhatsNewInARKit2_0.md) for details.]
 
@@ -161,13 +163,3 @@ Unity blog post ["Developing for ARKit 1.5 update using Unity ARKit Plugin"](htt
 ### ARKit 2.0 Update ###
 
 How to use new features from Unity: [Whats New In ARKit 2.0](./docs/WhatsNewInARKit2_0.md)
-
-## Questions?  Bugs? Showcase? ##
-
-Contact us via the [forums](https://forum.unity.com/forums/arkit.139/) for questions.
-
-You may submit [issues](https://bitbucket.org/Unity-Technologies/unity-arkit-plugin/issues?status=new&status=open) if you feel there are bugs that are not solved by asking on the forums.
-
-You may submit a [pull request](https://bitbucket.org/Unity-Technologies/unity-arkit-plugin/pull-requests/) if you believe you have a useful enhancement for this plugin.
-
-Follow [@jimmyjamjam](https://twitter.com/jimmy_jam_jam) for various AR related tweets, and showcase your creation there as well.
