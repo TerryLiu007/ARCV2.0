@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UnityOpenCVPlugin/Scenes/ARCV.unity
+  isLoaded: 1
+  isActive: 1
